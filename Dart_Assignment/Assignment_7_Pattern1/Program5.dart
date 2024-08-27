@@ -3,8 +3,8 @@ import "dart:io";
 void main(){
 
   print("Enter number of rows: ");
-  //int rows = int.parse(stdin.readLineSync()!);
-  int rows=3;
+  int rows = int.parse(stdin.readLineSync()!);
+  //int rows=3;
   int num=rows;
   for(int i=1;i<=rows;i++){
 
