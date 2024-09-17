@@ -13,12 +13,3 @@ print(height.runtimeType);
 print(fun.runtimeType);
 
 }
-
-/*
-OUTPUT :
-int
-String
-double
-() => void
-
-*/
